@@ -3414,7 +3414,7 @@
 /area/awaymission/caves/maintsroom)
 "exT" = (
 /obj/effect/light_emitter/fake_outdoors,
-/mob/living/basic/trooper/nanotrasen/ranged/elite/seargent_crowlie,
+/mob/living/simple_animal/hostile/megafauna/claw,
 /turf/open/misc/beach/sand,
 /area/awaymission/caves/maintsroom)
 "eyt" = (
@@ -7437,12 +7437,12 @@
 /turf/open/floor/plating,
 /area/awaymission/caves/maintsroom)
 "jCI" = (
-/obj/machinery/door/puzzle/keycard/blue_required,
+/obj/machinery/door/puzzle/keycard/claw_door,
 /obj/effect/light_emitter/fake_outdoors,
 /turf/open/floor/asphalt,
 /area/awaymission/caves/maintsroom)
 "jCO" = (
-/obj/machinery/door/puzzle/keycard/blue_required,
+/obj/machinery/door/puzzle/keycard/claw_door,
 /turf/open/floor/black,
 /area/awaymission/caves/maintsroom)
 "jDI" = (
@@ -13878,7 +13878,7 @@
 /area/awaymission/caves/maintsroom)
 "skw" = (
 /obj/effect/light_emitter/fake_outdoors,
-/obj/machinery/door/puzzle/keycard/blue_required,
+/obj/machinery/door/puzzle/keycard/claw_door,
 /turf/open/floor/black,
 /area/awaymission/caves/maintsroom)
 "slG" = (
